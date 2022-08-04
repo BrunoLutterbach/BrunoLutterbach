@@ -3,9 +3,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lutterbach-543720232/)
 ##
-![BrunoLutterbach GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLutterbach&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLutterbach&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoLutterbach&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLutterbach&layout=compact&theme=tokyonight"/>
+</div>
 
 <div align="center"></br>
 <img align="center" alt="java" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
