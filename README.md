@@ -1,5 +1,5 @@
 ### Olá, eu sou o Bruno Lutterbach 👋
-👨‍💻 Análise e Desenvolvimento de Sistemas 3/4
+👨‍💻 Análise e Desenvolvimento de Sistemas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lutterbach-543720232/)
 ##
